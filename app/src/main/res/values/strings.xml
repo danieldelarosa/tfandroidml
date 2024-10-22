@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tfandroidml</string>
+    <string name="predecir">predecir</string>
+    <string name="textview">TextView</string>
+    <string name="escoger_foto">Escoger Foto</string>
+    <string name="tomar_foto">Tomar Foto</string>
+</resources>
