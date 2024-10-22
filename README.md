@@ -1,7 +1,7 @@
 # tensorflow-android-machinelearning
 ## Description 🧙‍♂️
 ![Language](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![GitHub License](https://img.shields.io/github/license/:user/:repo)
+![GitHub License](https://img.shields.io/github/license/danieldelarosa/tfandroidml)
 
 A simple app to classifier the cars models of _volvo S60_ and _volvo XC40_
 
